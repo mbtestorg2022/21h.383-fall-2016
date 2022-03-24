@@ -62,7 +62,7 @@ Cherlin, Andrew J. "[Why Are White Death Rates Rising?](https://www.nytimes.com/
 
 Harper, Kyle. "[Civilization, Climate, and Malthus: The Rough Course of Global History](https://doi.org/10.1162/JINH_a_00758)." _Journal of Interdisciplinary History_ 45, no. 4 (2015): 549–66. 
 
-McCloskey, Deirdre Nansen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World." (PDF)[  
+McCloskey, Deirdre Nansen. "Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World." (PDF)[  
 ](http://books.google.com/books?id=ftLECwAAQBAJ&pg=PAfrontcover)
 
 ———. "[It Was Ideas and Ideologies, Not Interests or Institutions Which Changed in Northwestern Europe, 1600–1848](https://doi.org/10.1007/s00191-015-0392-x)." _Journal of Evolutionary Economics_ 25, no. 1 (2015): 57–68.
@@ -323,7 +323,7 @@ Divergence: When and Why?
 
 Allen, Robert C. "[The Great Divergence in European Wages and Prices from the Middle Ages to World War I](https://doi.org/10.1006/exeh.2001.0775)." _Explorations in Economic History_ 38, no. 4 (2001): 411–47. 
 
-Allen, Robert C., Jean‐Pascal Bassino, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Wages, Prices, and Living Standards in China, 1738–1925: In Comparison with Europe, Japan, and India." (PDF)](http://personal.lse.ac.uk/mad1/ma_pdf_files/allen%20et%20all%20ehr.pdf) _Economic History Review_ 64, no. 1 (2011): 8–38.
+Allen, Robert C., Jean‐Pascal Bassino, et al. "[Wages, Prices, and Living Standards in China, 1738–1925: In Comparison with Europe, Japan, and India." (PDF)](http://personal.lse.ac.uk/mad1/ma_pdf_files/allen%20et%20all%20ehr.pdf) _Economic History Review_ 64, no. 1 (2011): 8–38.
 
 Becker, Sascha O., Steven Pfaff, et al. "[Causes and Consequences of the Protestant Reformation](https://doi.org/10.1016/j.eeh.2016.07.007)." _Explorations in Economic History_ 62 (2016): 1–25.
 
@@ -339,7 +339,7 @@ Vries, P. H. H. "[Review: Are Coal and Colonies Really Crucial? Kenneth Pomeranz
 
 _Lecture slides from_ [Professor Gregory Clark](http://faculty.econ.ucdavis.edu/faculty/gclark/)_'s teaching site at the University of California, Davis_.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Great Divergence: Kenneth Pomeranz (PDF)](http://faculty.econ.ucdavis.edu/faculty/gclark/Farewell to Alms/Pomeranz - abad.pdf).
+[The Great Divergence: Kenneth Pomeranz (PDF)](http://faculty.econ.ucdavis.edu/faculty/gclark/Farewell to Alms/Pomeranz - abad.pdf).
 
 ### Book Suggestions
 
